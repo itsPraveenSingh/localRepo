@@ -1,0 +1,11 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    color: brown;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    color: burlywood;
+}
